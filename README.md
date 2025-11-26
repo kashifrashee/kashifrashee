@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Harsh Kumar 👋</h1>
+<h1 align="center">Hey! I'm KASHIF RASHEED 👋</h1>
 
 <!-- Typing Animation -->
 <p align="center">
