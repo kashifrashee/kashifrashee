@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm KASHIF RASHEED 👋</h1>
+<h1 align="center">Hey! I'm Kashif Rasheed 👋</h1>
 
 <!-- Typing Animation -->
 <p align="center">
