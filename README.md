@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <a href="https://kashif-rasheed-port.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://portfolio-kashif-rasheed.vercel.app/">🌐 Portfolio</a> •
   <a href="mailto:rasheedkashif849@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/kashif-rasheed-63b94b297">💼 LinkedIn</a> •
 </p>
